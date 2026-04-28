@@ -38,12 +38,15 @@ nlp-text-analysis-pipeline
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 Download NLTK resources:
+```bash
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+```
 
 ## Dataset
 
