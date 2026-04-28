@@ -24,11 +24,14 @@ Procesamiento de Lenguaje Natural - Grado Ciencia de Datos e Inteligencia Artifi
 - NumPy
 
 ## Project Structure
+```text
+nlp-text-analysis-pipeline
 ├── core.py
 ├── testing.ipynb
 ├── README.md
 ├── requirements.txt
 └── data/
+```
 
 ## How to Run
 
